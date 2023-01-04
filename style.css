@@ -1,0 +1,79 @@
+.h1beauty
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  color: deepskyblue;
+}
+
+.div1
+{
+  background-color: bisque;
+}
+
+.div2
+{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: normal;
+  color: brown;
+}
+
+.div3
+{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: inherit;
+  color: darkcyan;
+}
+
+.div4
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: normal;
+  color: green;
+}
+
+.div5
+{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: unset;
+  color: grey;
+}
+
+.div6
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  color: mediumpurple;
+}
+
+.bgbeauty
+{
+  background-color: lightgreen; 
+}
+
+.bgbeauty2
+{
+  background-color: lightpink;
+}
+
+.bgbeauty3
+{
+  background-color: lightcoral;
+}
+
+.bgbeauty4
+{
+  background-color: lightskyblue;
+}
+
+.div7
+{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold; 
+  color: darkgreen;
+  background-color: aquamarine;
+}
+
+.div8
+{
+  font-style: italic;
+}
